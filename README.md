@@ -1,0 +1,1 @@
+Billing bilan kassa: Bu kassa turi sizning biznesingizning elektron tizimi bilan Payme tizimini birlashtirishni talab qiladi. Ya'ni, sizning biznesingizdan chiqadigan hisob-fakturalar (billing) Payme orqali to'lanishi uchun moslashadi. Bu jarayon orqali mijozlar sizning mahsulot yoki xizmatlaringiz uchun to'lovni Payme orqali amalga oshirishlari mumkin
